@@ -32,8 +32,8 @@ Frontend and Backend Javascript Developer
 <!-- STATUS (LIST) -->
 ### My Status
 
-:briefcase: Just studying and collaborating on projects
-:office: ETEC MCM -> Internet computing (---)
+:briefcase: Just studying and collaborating on projects <br>
+:office: Internet computing -> Software development and structuring | Design | Database modeling | Networks | Management of operating systems | Marketing | Entrepreneurship <br>
 Objetivo
 
 <!--
