@@ -1,4 +1,4 @@
-### Hello! I'm <a href="https://felipepds.github.io/">FelipePDS</a> :star:
+### :star: Hello! I'm <a href="https://felipepds.github.io/">FelipePDS</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepds&show_icons=true)
 
