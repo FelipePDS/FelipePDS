@@ -3,7 +3,7 @@
 ### :star: Hello! I'm <a href="https://felipepds.github.io/">FelipePDS</a> :star:
 
 <!-- IMAGE (svg | png) -->
-<img width="400px" src="https://i.pinimg.com/736x/bc/92/63/bc92631b2e7beac57c23cecb09d5089c.jpg"/>
+
 
 I'm a software developer and passionate about always evolving :blush: <br>
 Always developing and learning something to help people
@@ -13,7 +13,7 @@ Always developing and learning something to help people
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a> 
 <a href="mailto:felipepdasilva66@gmail.com?subject=Hello"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-### Languages and Skills:
+### :dart: Languages and Skills:
 
 Frontend and Backend Javascript Developer
 
