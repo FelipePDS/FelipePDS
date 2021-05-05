@@ -30,6 +30,11 @@ Frontend and Backend Javascript Developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepds&layout=compact&theme=dracula)](https://github.com/felipepds/github-readme-stats)
 
 <!-- STATUS (LIST) -->
+### My Status
+
+:briefcase: Just studying and collaborating on projects
+:office: ETEC MCM -> Internet computing (---)
+Objetivo
 
 <!--
 **FelipePDS/FelipePDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
