@@ -3,10 +3,16 @@
 I am a software developer and passionate about always evolving :blush: <br>
 Always developing and learning something
 
+<!-- DISCORD | LINKEDIN | TWITTER -->
+
 #### Languages and Skills:
+
+<!-- LINGUAGENS E HABILIDADES -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepds&show_icons=true&theme=dracula&icon_color=f1e05a) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepds&layout=compact&theme=dracula)](https://github.com/felipepds/github-readme-stats)
+
+<!-- CONTATO -->
 
 <!--
 **FelipePDS/FelipePDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
