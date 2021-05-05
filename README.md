@@ -9,7 +9,7 @@ Always developing and learning something
 
 <!-- LINGUAGENS E HABILIDADES -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepds&show_icons=true&theme=dracula&icon_color=f1e05a) &nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepds&show_icons=true&theme=dracula) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepds&layout=compact&theme=dracula)](https://github.com/felipepds/github-readme-stats)
 
 <!-- CONTATO -->
