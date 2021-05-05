@@ -32,9 +32,18 @@ Frontend and Backend Javascript Developer
 <!-- STATUS (LIST) -->
 ### My Status
 
-:briefcase: Just studying and collaborating on projects <br>
-:office: Internet computing -> Software development and structuring | Design | Database modeling | Networks | Management of operating systems | Marketing | Entrepreneurship <br>
-Objetivo
+:briefcase: Just studying and collaborating on projects
+
+:office: Internet computing: <br>
+Software development and structuring &bull;
+Design &bull;
+Database modeling &bull;
+Networks &bull;
+Management of operating systems &bull;
+Marketing &bull;
+Entrepreneurship
+
+:rocket: Objetivo
 
 <!--
 **FelipePDS/FelipePDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
