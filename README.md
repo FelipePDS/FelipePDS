@@ -1,5 +1,9 @@
 ### :star: Hello! I'm <a href="https://felipepds.github.io/">FelipePDS</a> :star:
 
+I am a software developer and passionate about always evolving :blush: <br>
+Always developing and learning something
+
+My status and skills: <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepds&show_icons=true&theme=dracula)
 
 <!--
