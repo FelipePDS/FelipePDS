@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! I'm <a href="https://felipepds.github.io/">FelipePDS</a> :star:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepds&show_icons=true)
 
 <!--
 **FelipePDS/FelipePDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
