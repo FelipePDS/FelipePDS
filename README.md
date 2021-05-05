@@ -19,13 +19,9 @@ Always developing and learning something
 </p>
 
 Frontend and Backend Javascript Developer
-
-<div align="center">
   
-  ![FelipePDS's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepds&show_icons=true&theme=dracula) &nbsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepds&layout=compact&theme=dracula)](https://github.com/felipepds/github-readme-stats)
-  
-</div>
+![FelipePDS's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepds&show_icons=true&theme=dracula) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepds&layout=compact&theme=dracula)](https://github.com/felipepds/github-readme-stats)
 
 <!-- CONTATO -->
 
