@@ -43,7 +43,7 @@ Management of operating systems &bull;
 Marketing &bull; 
 Entrepreneurship
 
-:rocket: Objective: Program to help with something
+:rocket: Objective: Develop in Javascript :heart:
 
 <!--
 **FelipePDS/FelipePDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
