@@ -34,7 +34,7 @@ Frontend and Backend Javascript Developer
 
 :briefcase: Just studying and collaborating on projects
 
-:office: ETEC MCM | Internet computing: <br>
+:office: Internet computing: <br>
 Software development and structuring &bull; 
 Design &bull; 
 Database modeling &bull; 
