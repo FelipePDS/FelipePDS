@@ -35,15 +35,15 @@ Frontend and Backend Javascript Developer
 :briefcase: Just studying and collaborating on projects
 
 :office: Internet computing: <br>
-Software development and structuring &bull;
-Design &bull;
-Database modeling &bull;
-Networks &bull;
-Management of operating systems &bull;
-Marketing &bull;
+Software development and structuring &bull; 
+Design &bull; 
+Database modeling &bull; 
+Networks <br>
+Management of operating systems &bull; 
+Marketing &bull; 
 Entrepreneurship
 
-:rocket: Objetivo
+:rocket: Objective: Program to help with something
 
 <!--
 **FelipePDS/FelipePDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
