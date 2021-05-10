@@ -2,7 +2,7 @@
 
 ### :star: Hello! I'm <a href="https://felipepds.github.io/">FelipePDS</a> :star:
 
-<!-- IMAGE (svg | png) -->
+<img src="https://komarev.com/ghpvc/?username=FelipePDS"/>
 
 
 I'm a software developer and passionate about always evolving :blush: <br>
