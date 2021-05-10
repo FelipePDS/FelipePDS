@@ -2,9 +2,6 @@
 
 ### :star: Hello! I'm <a href="https://felipepds.github.io/">FelipePDS</a> :star:
 
-<img src="https://komarev.com/ghpvc/?username=FelipePDS"/>
-
-
 I'm a software developer and passionate about always evolving :blush: <br>
 Always developing and learning something to help people
 
