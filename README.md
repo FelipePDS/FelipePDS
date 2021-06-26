@@ -29,7 +29,7 @@ Frontend and Backend Javascript Developer
 <!-- STATUS (LIST) -->
 ### My Status
 
-:briefcase: Just studying and collaborating on projects
+:briefcase: Intern at [@Tecnologia Única](https://www.tecnologiaunica.com.br/)
 
 :office: Internet computing: <br>
 Software development and structuring &bull; 
