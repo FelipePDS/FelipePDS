@@ -12,15 +12,16 @@ Always developing and learning something to help people
 
 ### :dart: Languages and Skills:
 
-Frontend and Backend Javascript Developer
+Fullstack Javascript and C# (Asp.net MVC) Developer
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </p>
 
 ![FelipePDS's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepds&show_icons=true&theme=dracula) &nbsp;
@@ -31,11 +32,11 @@ Frontend and Backend Javascript Developer
 
 :briefcase: Intern at [@Tecnologia Única](https://www.tecnologiaunica.com.br/)
 
-:office: Internet computing: <br>
+:office: Internet computing: </br>
 Software development and structuring &bull; 
 Design &bull; 
 Database modeling &bull; 
-Networks <br>
+Networks </br>
 Management of operating systems &bull; 
 Marketing &bull; 
 Entrepreneurship
