@@ -30,7 +30,7 @@ Fullstack Javascript and C# (Asp.net MVC) Developer
 <!-- STATUS (LIST) -->
 ### My Status
 
-:briefcase: Intern at [@Tecnologia Única](https://www.tecnologiaunica.com.br/)
+:briefcase: Fullstack developer at [@Tecnologia Única](https://www.tecnologiaunica.com.br/)
 
 :office: Internet computing: </br>
 Software development and structuring &bull; 
