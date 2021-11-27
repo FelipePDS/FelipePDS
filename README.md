@@ -1,6 +1,6 @@
 <div align="center">
 
-### :star: Hello! I'm <a href="https://felipepds.github.io/">FelipePDS</a> :star:
+### :star: Hello! I'm <a href="https://felipepds.github.io/">Felipe Pinto Da Silva</a> :star:
 
 I'm a software developer and passionate about always evolving :blush: <br>
 Always developing and learning something to help people
@@ -24,8 +24,8 @@ Fullstack Javascript and C# (Asp.net MVC) Developer
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </p>
 
-![FelipePDS's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipepds&show_icons=true&theme=dracula) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipepds&layout=compact&theme=dracula)](https://github.com/felipepds/github-readme-stats)
+<img height="155rem" alt="FelipePDS's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=felipepds&show_icons=true&theme=dracula"/>
+<img height="155rem" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipepds&layout=compact&theme=dracula"/>
 
 <!-- STATUS (LIST) -->
 ### My Status
