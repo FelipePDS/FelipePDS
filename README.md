@@ -32,15 +32,6 @@ Fullstack Javascript and C# (Asp.net MVC) Developer
 
 :briefcase: Fullstack developer at [@Tecnologia Única](https://www.tecnologiaunica.com.br/)
 
-:office: Internet computing: </br>
-Software development and structuring &bull; 
-Design &bull; 
-Database modeling &bull; 
-Networks </br>
-Management of operating systems &bull; 
-Marketing &bull; 
-Entrepreneurship
-
 :rocket: Objective: Develop in Javascript :heart:
 
 <!--
