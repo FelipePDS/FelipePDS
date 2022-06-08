@@ -32,7 +32,7 @@ Fullstack Javascript and C# (Asp.net MVC) Developer
 
 :briefcase: Fullstack developer at [@Tecnologia Única](https://www.tecnologiaunica.com.br/) + Business Actions
 
-:rocket: Objective: Develop in Javascript :heart:
+:rocket: Objective: Solve problems :heart:
 
 <!--
 **FelipePDS/FelipePDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
