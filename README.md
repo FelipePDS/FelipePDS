@@ -30,7 +30,7 @@ Fullstack Javascript and C# (Asp.net MVC) Developer
 <!-- STATUS (LIST) -->
 ### My Status
 
-:briefcase: Fullstack developer at [@Tecnologia Única](https://www.tecnologiaunica.com.br/)
+:briefcase: Fullstack developer at [@Tecnologia Única](https://www.tecnologiaunica.com.br/) + Business Actions
 
 :rocket: Objective: Develop in Javascript :heart:
 
