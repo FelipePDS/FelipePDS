@@ -12,7 +12,7 @@ Always developing and learning something to help people
 
 ### :dart: Languages and Skills:
 
-Fullstack Javascript and C# (Asp.net MVC) Developer
+Fullstack Developer
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
