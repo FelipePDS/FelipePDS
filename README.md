@@ -30,6 +30,8 @@ Building software, learning continuously and transforming ideas into real soluti
 
 • Experience using GitHub Copilot and AI-assisted development to improve productivity and software delivery
 
+• Technical English experience applied to IT, software development, documentation and daily technical communication, while continuously improving overall fluency
+
 • Passionate about creating solutions that generate real impact
 
 • Mentoring students interested in technology and software development careers
@@ -88,6 +90,8 @@ Continuous English learning
 ☁️ Studying Cloud, Architecture and AI
 
 🧠 Exploring AI-assisted development, GitHub Copilot and better ways to increase developer productivity
+
+🌐 Improving technical English skills for software engineering and global communication
 
 📚 Always learning something new
 
